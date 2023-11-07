@@ -36,4 +36,4 @@ To enable the two-step verification in your Telegram app, follow these steps:
 {% endtab %}
 {% endtabs %}
 
-The next time you log in to your Telegram account, you will need to type in your password, so make sure your remember it.
+Now you have the two-step verification enabled. The next time you log in to your Telegram account, you will need to type in your password, so make sure your remember it.
