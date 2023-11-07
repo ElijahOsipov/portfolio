@@ -21,7 +21,7 @@ To enable the two-step verification in your Telegram app, follow these steps:
 {% endhint %}
 {% endtab %}
 
-{% tab title="Android" %}
+{% tab title="iOS/Android" %}
 1. Open the app and tap the three-line menu icon in the top-left corner of the app.
 2. Go to **Settings** —> **Privacy and Security.**
 3. In the Security menu, tap **Two-Step Verification.**
