@@ -2,7 +2,7 @@
 
 The two-step verification allows you to better protect your Telegram account from unauthorized access.
 
-Usually, when logging in on a new device, you need to enter a code sent to you via SMS or a Telegram message to another device where you’ve previously logged in. With the two-step verification enabled, you'll also have a password for your account that you'll need to use when you log in.
+Usually, when logging in on a new device, you need to enter a code sent to you via SMS or a Telegram message to another device where you have logged in before. With the two-step verification enabled, you'll also have a password for your account that you'll need to use when you log in.
 
 To enable the two-step verification in your Telegram app, follow these steps:
 
